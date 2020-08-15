@@ -1,0 +1,69 @@
+<html>
+    <head>
+        <title><h3>Specification</h3></title>
+    </head>
+    <body>
+        <h1>PUBG is Love♥♥♥</h1>
+        <p><a href="https://www.pubgmobile.com/en/event/globalextremechallenge/">PUBG Site</a></p>
+        <h2>M416</h2>
+        <img src="assault-rifle-firearm-heckler-koch-hk416-magpul-industries-carbine-assault-rifle.png" width="200" height="200">
+        <img src="https://zilliongamer.com/uploads/pubg-mobile/weapon/type/ar/m416/m416-pubgm-featured.jpg"width="300"height="200">
+        <audio controls> <source src="PUBG Mobile M416 Sound effect.mp3" type="audio/mpeg"></audio>
+        <ol type="I">
+            <li><b>Hit Damage 41</b>  </li>
+            <li><u>Initial bullet speed 880m/s</u></li>
+            <li><i>ammo type 5.56mm</i></li>
+        </ol>
+        <br>
+        <table border="3.5">
+            <thead>
+                <th>gun</th>
+                <th>ammo</th>
+                <th>grip</th>
+            </thead>
+            <tr>
+                <td>AR</td>
+                <td>5.56mm</td>
+                <td>angle grip</td>
+            </tr>
+            <tr>
+                <td>best AR</td>
+                <td>5.56mm</td>
+                <td>half grip</td>
+            </tr>
+        </table>
+    </body>
+    <body>
+        <h1>free tournament</h1>
+        <p><a href="https://pages.firstblood.io/pages/play-pubg/">Join here</a></p>
+        <form method="GET" action="https://pages.firstblood.io/pages/play-pubg/">
+            <label>Email ID:</label>
+            <input type="email" name="eMail input" placeholder="entterrr email" value="" required>
+            <label>passwor:</label>
+            <input type="password" name="passssinput" value="ghhkk" required>
+            <input type="submit" value="join">
+        </form>
+        <h1><b>FEEDBACK</b></h1>
+        <h1><u>what issue you are facing?</u></h1>
+        <form method="GET">
+            <h3>which type of OS you have used?</h3>
+            <label for="android">apk</label>
+            <input phone="androoidd" type="appkk" name="laag" value="smooth">
+            <label for="iphone">Iapk</label>
+            <input phone="IOS" type="Iappkk" name="laag" value="smooth">
+
+        </form>
+        <h3>Please rate our service :</h3>
+        <select name="stars">
+            <option value="great">5</option>
+            <option value="good">4</option>
+            <option value="ok">3</option>
+            <option value="bad">2</option>
+            <option value="worst">1</option>
+        </select>
+        <h4>any other suggetion or complain?</h4>
+        <textarea name="area"></textarea>
+        <br>
+        <input type="submit" value="submit"/>
+    </body>
+</html>
